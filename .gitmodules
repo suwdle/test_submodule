@@ -1,0 +1,3 @@
+[submodule "pipeline/sub_frontend"]
+	path = pipeline/sub_frontend
+	url = https://github.com/suwdle/sub_frontend
